@@ -1,0 +1,13 @@
+{
+  "name": "app-boilerplate",
+  "version": "1.0.0",
+  "homepage": "https://github.com/zafar-saleem/ng-boilerplate",
+  "authors": [
+    "Zafar Saleem"
+  ],
+  "description": "Boilerplate for Angularjs apps from scratch",
+  "license": "MIT",
+  "dependencies": {
+    "angular": null
+  }
+}
